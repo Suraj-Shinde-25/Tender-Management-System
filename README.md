@@ -9,7 +9,6 @@ This website serves the following purposes:
 - Searching for tender
 - Checking availability of tenders
 - Viewing tender details
-- Finding trains between stations
 - Bidding for tender
 - Secure login and logout
 - Password changes
@@ -41,7 +40,7 @@ This website serves the following purposes:
 - Checks bidding status
 - View all Notice
 - View and update profile
-- Submit feedback
+- Submit Feedback
 - Change password
 - Logout
 
